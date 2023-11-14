@@ -1,0 +1,29 @@
+.txt{
+    font-family: calibri;
+}
+p{
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: calibri;
+    text-transform: capitalize;
+}
+.ft{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.rem{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0px 0px 2px 1px #79797917;
+    margin-left: 50px;
+    font-family: calibri;
+    font-weight: 600;
+}
+.rem:hover{
+    background: red;
+    color: aliceblue;
+}
